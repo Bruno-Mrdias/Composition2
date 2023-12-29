@@ -1,5 +1,5 @@
 package entities;
 
-public class post {
+public class Post {
     
 }
